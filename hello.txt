@@ -14,4 +14,3 @@ hello myGit
 hello myGit
 hello myGit
 hello myGit
-添加游戏功能
