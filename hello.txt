@@ -15,3 +15,4 @@ hello myGit
 hello myGit
 hello myGit
 社交功能
+游戏功能
